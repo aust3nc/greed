@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3urgVPrBw1s7rFMumZWKhk43vQ9QmDv5rHw73rcRfHMtH0P61zPBqFQWfOCH5aP4lhpFOy7cC+do9icVDg5yg==",
+  "success": true,
+  "projectFilePath": "/home/aust3n/Desktop/shy/school/current/programmingwithclasses/csharpincomplete/Unit04/Unit04.csproj",
+  "expectedPackageFiles": [
+    "/home/aust3n/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/home/aust3n/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
